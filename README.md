@@ -13,6 +13,7 @@
 ## About The Project
 
 ![Simu-Gif][simu-gif]
+
 The project is implemented with the Markov chain to simulate the customer flow in the supermarket.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
